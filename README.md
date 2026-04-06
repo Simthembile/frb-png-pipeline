@@ -145,8 +145,9 @@ Planck 2018 ΛCDM:
 If you use this pipeline, please cite:
 
 ```
-[Author et al. 20XX] — Constraining Primordial Non-Gaussianity with
-Fast Radio Burst Dispersion Measure and Timing Cross-Spectra
+Dlamini, Simthembile. (2026). Fast Radio Bursts and Primordial Non-Gaussianity 
+Cosmology Pipeline: Constraints via Dispersion Measure and Timing Cross-Spectra. 
+Zenodo. https://doi.org/10.5281/zenodo.19440686
 ```
 
 And the benchmark it extends:
