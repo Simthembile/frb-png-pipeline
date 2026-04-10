@@ -144,11 +144,17 @@ Planck 2018 ΛCDM:
 
 If you use this pipeline, please cite:
 
-```
-Dlamini, Simthembile. (2026). Fast Radio Bursts and Primordial Non-Gaussianity 
-Cosmology Pipeline: Constraints via Dispersion Measure and Timing Cross-Spectra. 
-Zenodo. https://doi.org/10.5281/zenodo.19440686
-```
+@software{dlamini_2026_19440686,
+  author       = {Dlamini, Simthembile},
+  title        = {Fast Radio Bursts and Primordial Non-Gaussianity Cosmology Pipeline: Constraints via Dispersion Measure and Timing Cross-Spectra},
+  month        = apr,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.19440686},
+  url          = {https://doi.org/10.5281/zenodo.19440686},
+}
+
 
 And the benchmark it extends:
 
